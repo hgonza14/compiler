@@ -120,5 +120,4 @@ void printAST(struct AST *tree, int level)
 	printDots(level);
 	printf("done\n");
 
-	// finish this function for the final project
 }
