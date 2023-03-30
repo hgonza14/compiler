@@ -1,1 +1,1 @@
-# Simple compiler that evaluates simple or complicated expressions. The expression is made from a declaring variable (int x) and a constant assignment (x = 3). If the expression is a recognized rule and semantically correct, then an IR file is generated that outputs the three-address code.
+Simple compiler that evaluates simple or complicated expressions. The expression is made from a declaring variable (int x) and a constant assignment (x = 3). If the expression is a recognized rule and semantically correct, then an IR file is generated that outputs the three-address code.
